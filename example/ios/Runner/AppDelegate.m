@@ -1,5 +1,7 @@
 #include "AppDelegate.h"
 #include "GeneratedPluginRegistrant.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 @implementation AppDelegate
 
